@@ -1,4 +1,7 @@
 # hello-world
+
+Now I am at SCG
+
 First project to follow the tutorial
 Now I am about to make some change to this file
 then will commit
